@@ -12,6 +12,6 @@ Os testes contidos na planilha que não foram testados são alguns que eu mapeei
 - framework de testes: JUnit 5
 - Linguagens: Java 8 e Groovy 3.0.3
 
-3) O projeto TestesSimuladorInvestimento foi criado em Java juntamente com o JUnit, e realizar os testes WEB de aceitação. Ele contém o arquivo de testes SimulaInvestimentoTestes.java que contém 5 testes automáticos.
+3) O projeto TestesSimuladorInvestimento foi criado em Java juntamente com o JUnit, e realiza os testes WEB de aceitação. Ele contém o arquivo de testes SimulaInvestimentoTestes.java que contém 5 testes automáticos.
 
 4) O projeto TesteAPI foi criado em Groovy juntamente com o JUnit para realizar o teste de API. Ele contém o arquivo de testes testesAutomaticosAPI.groovy
