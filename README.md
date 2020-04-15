@@ -10,7 +10,7 @@ Os testes contidos na planilha que não foram testados são alguns que eu mapeei
 2) Tecnologias utilizadas:
 - IDE: Eclipse 2020-03 (Version 4.15.0)
 - framework de testes: JUnit 5
-- Linguagens: Java 8 e Groovy 3.0.3
+- Linguagens: Java (Version 8) e Groovy (Version 3.0.3)
 
 3) O projeto TestesSimuladorInvestimento foi criado em Java juntamente com o JUnit, e realiza os testes WEB de aceitação. Ele contém o arquivo de testes SimulaInvestimentoTestes.java que contém 5 testes automáticos.
 
